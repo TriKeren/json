@@ -1,0 +1,33 @@
+{
+    "name" : "FreeFire - Booyah",
+    "age" : 20,
+    "hobby" : [
+        "Coding",
+        "Maen Epep",
+        "Maen Emel"
+    ],
+
+    "github":{
+        "username": "@trikeren",
+        "repositories": 2767,
+        "isGDE": true
+    },
+
+    "articles":[
+        {
+            "id": 1,
+            "title": "Free Fire",
+            "subtitle": "Ini Game"
+        },
+        {
+            "id": 2,
+            "title": "Apel Vixion",
+            "subtitle": "Ini Teknologi Keren"
+        },
+        {
+            "id": 3,
+            "title": "Tusuk Sate",
+            "subtitle": "Ini Makanan"
+        }
+    ]
+}
